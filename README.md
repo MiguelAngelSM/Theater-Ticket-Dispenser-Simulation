@@ -32,7 +32,7 @@ Some other functionalities and specifications:
 ###### Welcome Screen
 ---
 
-![Welcome Screen]()
+![Welcome Screen](https://github.com/MiguelAngelSM/Theater-Ticket-Dispenser-Simulation/tree/main/ReadMe%20imgs)
 
 ---
 ###### Language Selection Screen
