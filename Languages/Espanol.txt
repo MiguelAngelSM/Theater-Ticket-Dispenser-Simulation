@@ -1,0 +1,40 @@
+Bienvenido al teatro Alfil:Bienvenido al teatro Alfil
+Producido por Stage Entertainment, El Rey León es la mayor producción musical jamás representada en España. Apto para toda la familia, es una experiencia única que atrapa de principio a fin y que, tal y como ya han hecho más de 100 millones de personas en todo el mundo, hay que vivir, al menos, una vez en la vida. Por su espectacularidad, por su belleza, por la emoción que es capaz de transmitir...:Producido por Stage Entertainment, El Rey León es la mayor producción musical jamás representada en España. Apto para toda la familia, es una experiencia única que atrapa de principio a fin y que, tal y como ya han hecho más de 100 millones de personas en todo el mundo, hay que vivir, al menos, una vez en la vida. Por su espectacularidad, por su belleza, por la emoción que es capaz de transmitir...
+Selección de idioma:Selección de idioma
+Selección fecha de representación:Selección fecha de representación
+Cancelar:Cancelar
+Aceptar:Aceptar
+Español:Español
+Euskera:Euskera
+Catalán:Catalán
+Inglés:Inglés
+Gallego:Gallego
+Sun:Domingo
+Tue:Martes
+Wed:Miércoles
+Thu:Jueves
+Fri:Viernes
+Sat:Sábado
+Seleccione la zona del teatro:Seleccione la zona del teatro
+Palco1:Palco 1 (D)
+Palco2:Palco 2 (E)
+Anfiteatro1:Anfiteatro 1 (B)
+Anfiteatro2:Anfiteatro 2 (C)
+Platea:Platea (A)
+Seleccione sus butacas:Seleccione sus butacas
+El precio de su compra es de:El precio de su compra es de
+Inserte una tarjeta de credito:Inserte una tarjeta de crédito
+En estos momentos no podemos conectarnos con su banco; disculpe las molestias:En estos momentos no podemos conectarnos con su banco; disculpe las molestias
+Error:Error
+No dispone de saldo suficiente por lo que no podemos realizar la transaccion; disculpe las molestias:No dispone de saldo suficiente por lo que no podemos realizar la transaccion; disculpe las molestias
+Entrada para:Entrada para
+Fila:Fila
+Columna:Columna
+Precio:Precio
+Teatro Alfil:Teatro Alfil
+Asiento ocupado:Asiento ocupado
+El maximo es 4 asientos:El máximo es 4 asientos
+Asientos seleccionados:Asientos seleccionados
+Retire su tarjeta de credito:Retire su tarjeta de crédito
+Si no la retira el dispensador la guardara y podra reclamarla en recepcion:Si no la retira el dispensador la guardará y podrá reclamarla en recepción
+Recuerden que los lunes no hay teatro:Recuerden que los lunes no hay teatro

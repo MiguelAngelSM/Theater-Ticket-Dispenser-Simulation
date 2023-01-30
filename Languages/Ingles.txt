@@ -1,0 +1,40 @@
+Bienvenido al teatro Alfil:Welcome to Alfil Theater
+Producido por Stage Entertainment, El Rey León es la mayor producción musical jamás representada en España. Apto para toda la familia, es una experiencia única que atrapa de principio a fin y que, tal y como ya han hecho más de 100 millones de personas en todo el mundo, hay que vivir, al menos, una vez en la vida. Por su espectacularidad, por su belleza, por la emoción que es capaz de transmitir...:Produced by Stage Entertainment, El Rey León is the largest musical production ever performed in Spain. Suitable for the whole family, it is a unique experience that captivates from beginning to end and that, as more than 100 million people around the world have already done, must be lived at least once in a lifetime. For its spectacularity, for its beauty, for the emotion it is capable of transmitting...
+Selección de idioma:Language selection
+Selección fecha de representación: Performance date selection
+Cancelar:Cancel
+Aceptar:Accept
+Español:Spanish
+Euskera:Basque
+Catalán:Catalan
+Inglés:English
+Gallego:Galician
+Sun:Sunday
+Tue:Tuesday
+Wed:Wednesday
+Thu:Thursday
+Fri:Friday
+Sat:Saturday
+Seleccione la zona del teatro:Select the area of ​​the theater
+Palco1:Box 1 (D)
+Palco2:Box 2 (E)
+Anfiteatro1:Amphitheater 1 (B)
+Anfiteatro2:Amphitheater 2 (C)
+Platea:Orchestra (A)
+Seleccione sus butacas:Select your seats
+El precio de su compra es de:Your purchase price is
+Inserte una tarjeta de credito:Insert a credit card
+En estos momentos no podemos conectarnos con su banco; disculpe las molestias:We are currently unable to connect with your bank; sorry for the inconvenience
+Error:Error
+No dispone de saldo suficiente por lo que no podemos realizar la transaccion; disculpe las molestias:You do not have a enough balance so we cannot carry out the transaction; sorry for the inconvenience
+Entrada para:Ticket for
+Fila:Line
+Columna:Column
+Precio:Price
+Teatro Alfil:Alfil Theater
+Asiento ocupado:Seat occupied
+El maximo es 4 asientos:The maximum is 4 seats
+Asientos seleccionados:Selected seats
+Retire su tarjeta de credito:Remove your credit card
+Si no la retira el dispensador la guardara y podra reclamarla en recepcion:If you do not remove it, the dispenser will keep it and you can claim it at reception
+Recuerden que los lunes no hay teatro:Remember that there is no theater on Mondays

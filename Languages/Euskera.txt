@@ -1,0 +1,40 @@
+Bienvenido al teatro Alfil:Ongi etorri Alfil Antzokira
+Producido por Stage Entertainment, El Rey León es la mayor producción musical jamás representada en España. Apto para toda la familia, es una experiencia única que atrapa de principio a fin y que, tal y como ya han hecho más de 100 millones de personas en todo el mundo, hay que vivir, al menos, una vez en la vida. Por su espectacularidad, por su belleza, por la emoción que es capaz de transmitir...:Stage Entertainment-ek ekoiztua, El Rey León Espainian inoiz egin den musika ekoizpen handiena da. Familia osoarentzako aproposa, hasieratik amaierara liluratzen duen esperientzia paregabea da eta munduan zehar 100 milioi pertsonak baino gehiagok egin duten bezala, bizitzan gutxienez behin bizi behar dena. Bere ikusgarritasunagatik, bere edertasunagatik, transmititzeko gai den emozioagatik...
+Selección de idioma:Hizkuntza hautatzea
+Selección fecha de representación:Emanaldi data hautatzea
+Cancelar:Utzi
+Aceptar:Onartzeko
+Español:Gaztelania
+Euskera:Euskara
+Catalán:Katalana
+Inglés:Ingelesa
+Gallego:Galegoa
+Sun:Igandea
+Tue:Asteartea
+Wed:Asteazkena
+Thu:Osteguna
+Fri:Ostirala
+Sat:Larunbata
+Seleccione la zona del teatro:Hautatu antzokiaren eremua
+Palco1:Koadroa 1 (D)
+Palco2:Koadroa 2 (E)
+Anfiteatro1:Anfiteatroa 1 (B)
+Anfiteatro2:Anfiteatroa 2 (C)
+Platea:Orkestra (A)
+Seleccione sus butacas:Aukeratu zure eserlekuak
+El precio de su compra es de:Zure erosketa prezioa da
+Inserte una tarjeta de credito:Sartu kreditu-txartel bat
+En estos momentos no podemos conectarnos con su banco; disculpe las molestias:Une honetan ezin gara zure bankuarekin konektatu; Barkatu eragozpenak
+Error:Akatsa
+No dispone de saldo suficiente por lo que no podemos realizar la transaccion; disculpe las molestias:Ez duzu saldo nahikorik, beraz, ezin dugu transakzioa egin; Barkatu eragozpenak
+Entrada para:Txartela
+Fila:Lerroa
+Columna:Zutabea
+Precio:Prezioa
+Teatro Alfil:Alfil Antzokira
+Asiento ocupado:Eserlekua okupatuta
+El maximo es 4 asientos:Gehienez 4 eserleku dira
+Asientos seleccionados:Aukeratutako eserlekuak
+Retire su tarjeta de credito:Atera zure kreditu txartela
+Si no la retira el dispensador la guardara y podra reclamarla en recepcion:Ez baduzu kentzen, banatzaileak gordeko du eta harreran erreklamatu dezakezu
+Recuerden que los lunes no hay teatro:Gogoratu astelehenetan ez dagoela antzerkirik

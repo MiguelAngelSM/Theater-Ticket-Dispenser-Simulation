@@ -1,0 +1,40 @@
+Bienvenido al teatro Alfil:Benvingut al teatre Alfil
+Producido por Stage Entertainment, El Rey León es la mayor producción musical jamás representada en España. Apto para toda la familia, es una experiencia única que atrapa de principio a fin y que, tal y como ya han hecho más de 100 millones de personas en todo el mundo, hay que vivir, al menos, una vez en la vida. Por su espectacularidad, por su belleza, por la emoción que es capaz de transmitir...:Produït per Stage Entertainment, El Rey León és la major producció musical mai representada a Espanya. Apte per a tota la família, és una experiència única que atrapa de principi a fi i que, tal com ja han fet més de 100 milions de persones a tot el món, cal viure, almenys, una vegada a la vida. Per la seva espectacularitat, per la seva bellesa, per l'emoció que és capaç de...
+Selección de idioma:Selecció d'idioma
+Selección fecha de representación:Selecció data de representació
+Cancelar:Cancel·la
+Aceptar:Acceptar
+Español:Espanyol
+Euskera:Basc
+Catalán:Català
+Inglés:Anglès
+Gallego:Gallec
+Sun:Diumenge
+Tue:Dimarts
+Wed:Dimecres
+Thu:Dijous
+Fri:Divendres
+Sat:Dissabte
+Seleccione la zona del teatro:Seleccioneu la zona del teatre
+Palco1:Llotja 1 (D)
+Palco2:Llotja 2 (E)
+Anfiteatro1:Amfiteatre 1 (B)
+Anfiteatro2:Amfiteatre 2 (C)
+Platea:Platea (A)
+Seleccione sus butacas:Seleccioneu les vostres butaques
+El precio de su compra es de:El preu de la compra és de
+Inserte una tarjeta de credito:Inseriu una targeta de crèdit
+En estos momentos no podemos conectarnos con su banco; disculpe las molestias:En aquests moments no ens podem connectar amb el seu banco; disculpi les molèsties
+Error:Error
+No dispone de saldo suficiente por lo que no podemos realizar la transaccion; disculpe las molestias:No disposa de saldo suficient pel que no podem realitzar la transacció; disculpi les molèsties
+Entrada para:Entrada per
+Fila:Fila
+Columna:Columna
+Precio:Preu
+Teatro Alfil:Teatre Alfil
+Asiento ocupado:Seient ocupat
+El maximo es 4 asientos:El màxim és 4 seients
+Asientos seleccionados:Seients seleccionats
+Retire su tarjeta de credito:Traieu la targeta de crèdit
+Si no la retira el dispensador la guardara y podra reclamarla en recepcion:Si no la retira el dispensador la guardarà i podrà reclamar-la a recepció
+Recuerden que los lunes no hay teatro:Recordeu que els dilluns no hi ha teatre

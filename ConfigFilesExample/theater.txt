@@ -1,0 +1,7 @@
+TheaterName:Alfil
+TheaterPlaneImageFile:plane.png
+Area:Palco1;30€;palco1.txt
+Area:Palco2;30€;palco2.txt
+Area:Anfiteatro1;40€;anfiteatro1.txt
+Area:Anfiteatro2;30€;anfiteatro2.txt
+Area:Platea;50€;platea.txt

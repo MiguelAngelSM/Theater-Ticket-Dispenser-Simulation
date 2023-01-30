@@ -1,0 +1,5 @@
+Español:Espanol.txt
+Inglés:Ingles.txt
+Catalán:Catalan.txt
+Euskera:Euskera.txt
+Gallego:Gallego.txt

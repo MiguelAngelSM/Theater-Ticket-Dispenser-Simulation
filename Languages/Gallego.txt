@@ -1,0 +1,40 @@
+Bienvenido al teatro Alfil:Benvido ao Teatro Alfil
+Producido por Stage Entertainment, El Rey León es la mayor producción musical jamás representada en España. Apto para toda la familia, es una experiencia única que atrapa de principio a fin y que, tal y como ya han hecho más de 100 millones de personas en todo el mundo, hay que vivir, al menos, una vez en la vida. Por su espectacularidad, por su belleza, por la emoción que es capaz de transmitir...:Producida por Stage Entertainment, El Rey León é a maior produción musical xamais realizada en España. Apta para toda a familia, é unha experiencia única que engaiola de principio a fin e que, como xa fixeron máis de 100 millóns de persoas en todo o mundo, hai que vivir polo menos unha vez na vida. Pola súa espectacularidade, pola súa beleza, pola emoción que é capaz de transmitir...
+Selección de idioma:Selección do idioma
+Selección fecha de representación:Selección data de representación
+Cancelar:Cancelar
+Aceptar:Aceptar
+Español:Castelán
+Euskera:Éuscaro
+Catalán:Catalán
+Inglés:Inglés
+Gallego:Galego
+Sun:Domingo
+Tue:Martes
+Wed:Miércores
+Thu:Xoves
+Fri:Venres
+Sat:Sábado
+Seleccione la zona del teatro:Seleccione a zona do teatro
+Palco1:Caixa 1 (D)
+Palco2:Caixa 2 (E)
+Anfiteatro1:Anfitetro 1 (B)
+Anfiteatro2:Anfitetro 2 (C)
+Platea:Orquestra (A)
+Seleccione sus butacas:Seleccione os seus asentos
+El precio de su compra es de:O seu prezo de compra é
+Inserte una tarjeta de credito:Insira unha tarxeta de crédito
+En estos momentos no podemos conectarnos con su banco; disculpe las molestias:Actualmente non podemos conectarnos co teu banco; desculpe as molestias
+Error:Erro
+No dispone de saldo suficiente por lo que no podemos realizar la transaccion; disculpe las molestias:Non tes saldo suficiente polo que non podemos realizar a transacción; desculpe as molestias
+Entrada para:Ticket para
+Fila:Liña
+Columna:Columna
+Precio:Prezo
+Teatro Alfil:Teatro Alfil
+Asiento ocupado:Asento ocupado
+El maximo es 4 asientos:O máximo é de 4 prazas
+Asientos seleccionados:Asentos seleccionados
+Retire su tarjeta de credito:Retira a túa tarxeta de crédito
+Si no la retira el dispensador la guardara y podra reclamarla en recepcion:Se non o retiras, o dispensador conservarao e poderás reclamalo en recepción
+Recuerden que los lunes no hay teatro:Lembrade que os luns non hai teatro
