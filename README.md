@@ -29,49 +29,63 @@ Some other functionalities and specifications:
 -After a payment, if the credit card is not taken in 30 seconds the Dispenser will retain it.
 
 ---
+###### Example of use
+---
+
+https://user-images.githubusercontent.com/117299908/215608226-d3cc84dd-821a-4faa-9c75-bc090b231e3c.mp4
+
+---
 ###### Welcome Screen
 ---
 
-![Welcome Screen]([https://github.com/MiguelAngelSM/Theater-Ticket-Dispenser-Simulation/tree/main/ReadMe%20imgs](https://github.com/MiguelAngelSM/Theater-Ticket-Dispenser-Simulation/blob/main/ReadMe%20imgs/WelcomeScreen.PNG?raw=true))
+![WelcomeScreen](https://user-images.githubusercontent.com/117299908/215600063-cd64edec-b50e-493b-a103-a4a171419c02.PNG)
 
 ---
 ###### Language Selection Screen
 ---
 
-![Language Selection Screen](https://user-images.githubusercontent.com/117300099/215363645-cd02f5f5-a867-4b86-b9c3-d65300c63fb4.png)
+![LanguageSelectionScreen](https://user-images.githubusercontent.com/117299908/215600123-e0a13e62-b5cb-4666-b6b9-2a525568510a.PNG)
 
 ---
 ###### Date Selection Screen
 ---
 
-![Date Selection Screen](https://user-images.githubusercontent.com/117300099/215363683-478e27a8-c55e-4492-bad2-d7c7e9ac784b.png)
+![DateSelectionScreen](https://user-images.githubusercontent.com/117299908/215600179-12c01165-1c8a-45c3-bf29-8dd521ef1686.PNG)
 
 ---
-###### Area Selection Screen
+###### Area Selection Screen on Weekends
 ---
 
-![Area Selection Screen](https://user-images.githubusercontent.com/117300099/215363683-478e27a8-c55e-4492-bad2-d7c7e9ac784b.png)
+![AreaSelectionScreen](https://user-images.githubusercontent.com/117299908/215600268-e37e6724-958a-47ac-9a2f-3c120b767cf0.PNG)
+
+---
+###### Area Selection Screen on Weekdays
+---
+
+![AreaSelectionScreen2](https://user-images.githubusercontent.com/117299908/215600235-e55fb052-35af-4973-8bf1-7c99dc3a6194.PNG)
 
 ---
 ###### Seats Selection Screen
 ---
 
-![Seats Selection Screen](https://user-images.githubusercontent.com/117300099/215363683-478e27a8-c55e-4492-bad2-d7c7e9ac784b.png)
+![SeatSelectionScreen](https://user-images.githubusercontent.com/117299908/215601089-45451ac1-03eb-4c41-b701-0a11aad764c6.PNG)
 
 ---
 ###### Payment Screen
 ---
 
-![Payment Screen](https://user-images.githubusercontent.com/117300099/215363683-478e27a8-c55e-4492-bad2-d7c7e9ac784b.png)
+![PaymentScreen](https://user-images.githubusercontent.com/117299908/215601114-6692acf4-92d4-4aea-9f58-dd4c856d2028.PNG)
 
 ---
 ###### Post-Payment Screen
 ---
 
-![Post-Payment Screen](https://user-images.githubusercontent.com/117300099/215363683-478e27a8-c55e-4492-bad2-d7c7e9ac784b.png)
+![Post-PaymentScreen](https://user-images.githubusercontent.com/117299908/215601197-f3eac3ec-a874-4179-8ad6-2763d9c1ba01.PNG)
 
 ---
 ###### Error Screens
 ---
 
-![Error Screens](https://user-images.githubusercontent.com/117300099/215363683-478e27a8-c55e-4492-bad2-d7c7e9ac784b.png)
+![ErrorScreen](https://user-images.githubusercontent.com/117299908/215601244-b2e33126-f311-4953-946d-58dfa6824198.PNG)
+
+![ErrorScreen2](https://user-images.githubusercontent.com/117299908/215601245-244c8dfa-1407-42ce-a9aa-7f3792648302.PNG)
