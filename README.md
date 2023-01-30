@@ -3,7 +3,7 @@
 This is the final project for the **Object-oriented programming** course.
 The objective is to create a Java application in order to prove that I have understand the Object-oriented programming and the UML diagrams given by the teachers.
 
-## Authors
+## Author
 ---
 @MiguelAngelSM
 
@@ -14,7 +14,7 @@ The objective is to create a Java application in order to prove that I have unde
 
 - Oriented for *Spanish speakers*, *Basque speakers*, *Galician speakers*, *Catalan speakers* and *English speakers*.
 
-#Explanation of the project
+# Explanation of the project
 The Dispenser has two main operations (this amount can increase):
 -Select Language: it lets the user change the language configuration of the Dispenser.
 -Buy Tickets: it lets the user select the *date*, *area* and *seats* (maximum of 4) for the tickets. Then it ask for a credit card and it finally realizes the payment and prints the tickets.
