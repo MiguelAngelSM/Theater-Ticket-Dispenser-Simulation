@@ -16,17 +16,17 @@ The objective is to create a Java application in order to prove that I have unde
 
 # Brief explanation of the project
 The Dispenser has two main operations (this amount can increase):
--Select Language: it lets the user change the language configuration of the Dispenser.
--Buy Tickets: it lets the user select the *date*, *area* and *seats* (maximum of 4) for the tickets. Then it ask for a credit card and it finally realizes the payment and prints the tickets.
+- Select Language: it lets the user change the language configuration of the Dispenser.
+- Buy Tickets: it lets the user select the *date*, *area* and *seats* (maximum of 4) for the tickets. Then it ask for a credit card and it finally realizes the payment and prints the tickets.
 
 Some other functionalities and specifications:
--On weekends the price is multiplied by a multiplier given in the config file for the theater.
--On Mondays there are not Theater passes.
--After 30 secons without interaction with the Dispenser it backs to the Welcome Screen.
--Cancel buttons back to the Welcome Screen.
--There is only one play for the theater.
--There is only one Dispenser in the theater.
--After a payment, if the credit card is not taken in 30 seconds the Dispenser will retain it.
+- After a payment, if the credit card is not taken in 30 seconds the Dispenser will retain it.
+- After 30 secons without interaction with the Dispenser it backs to the Welcome Screen.
+- Cancel buttons back to the Welcome Screen.
+- On weekends the price is multiplied by a multiplier given in the config file for the theater.
+- On Mondays there are not Theater passes.
+- There is only one play for the theater.
+- There is only one Dispenser in the theater.
 
 ---
 ###### Example of use
