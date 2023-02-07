@@ -3,10 +3,6 @@
 This is the final project for the **Object-oriented programming** course.
 The objective is to create a Java application in order to prove that I have understand the Object-oriented programming and the UML diagrams given by the teachers.
 
-## Author
----
-@MiguelAngelSM
-
 # Technical features
 - Implemented with Java using the IDE Apache NetBeans.
 
